@@ -1,0 +1,15 @@
+{
+    "name": "irnix/slack",
+    "description": "Small sender for Slack",
+    "homepage": "https://github.com/irnix/slack",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+	"autoload": {
+		"classmap": [
+			"src"
+		]
+	}
+}
